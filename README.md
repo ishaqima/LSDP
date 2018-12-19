@@ -16,7 +16,7 @@
 
 ## 2. Markdown常用语法  
 > 数学符号及公式：类似Latex语法，```$x^2$```用于“内嵌型”公式，```$$a+b$$```用于“显示型”公式，```\(x^2\)```用于靠左模式  
-\\(\alpha\\)，$$a+b$$，$x^2$  
+$\lambda$，$$a+b$$，$x^2$  
 > 参考博客：  
 > [1] [chrome浏览器安装MathJax插件，可支持github上的公式](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima)  
 > [2] https://www.zhihu.com/question/26887527   
