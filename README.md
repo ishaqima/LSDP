@@ -3,9 +3,9 @@
 
 
 ## 1. 快速创建github远程仓库
-> 在github网站上，Repositories->New，新建项目；
-> 在本地文件夹中，git clone ...，将远程仓库克隆到本地；
-> 克隆之后直接在本地文件夹中修改、更新即可；
+> 在github网站上，Repositories->New，新建项目；  
+> 在本地文件夹中，git clone ...，将远程仓库克隆到本地； 
+> 克隆之后直接在本地文件夹中修改、更新即可；  
 > [[1]github入门教程](https://www.jianshu.com/p/7f8c80056233)
 
 ## 2. Markdown常用语法
