@@ -14,7 +14,7 @@
 > * 克隆之后直接在本地文件夹中修改、更新即可；  
 > [参考博客](https://www.jianshu.com/p/7f8c80056233)
 > * 避免提交时多次输入密码：  
-> git bash进入你的项目目录，
+> git bash进入你的项目目录  
 > git config --global credential.helper store  
 
 ## 2. Markdown常用语法  
