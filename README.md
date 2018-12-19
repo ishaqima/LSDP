@@ -19,7 +19,7 @@
 > 数学符号及公式：类似Latex语法，```$x_1$```用于“内嵌型”公式，```$$x^2$$```用于“显示型”公式，```\\(x^2\\)```用于靠左模式  
 \(\alpha\)，$$a+b$$，$x^2$  
 > 参考博客：    
-> [1] https://github.com/xiahouzuoxin/notes/blob/master/essays/Markdown%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E7%9A%84%E6%96%B9%E6%B3%95.md
+> [1] https://github.com/xiahouzuoxin/notes/blob/master/essays/Markdown%E4%B8%AD%E6%8F%92%E5%85%A5%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E7%9A%84%E6%96%B9%E6%B3%95.md  
 > [2] http://cwiki.apachecn.org/pages/viewpage.action?pageId=8159393  
 > 换行：在一行结尾添加两个空格;  
 > 分割线：连续三个***、---、___  
