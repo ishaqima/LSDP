@@ -1,5 +1,5 @@
 # LSDP代码结构  
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
 2018-10月论文SubspaceLearning代码说明  
 ## 1. 代码结构：  
 > testTemp.m为最终的测试文件，测试各个算法在ORL、Yale、FERET上的准确率  
