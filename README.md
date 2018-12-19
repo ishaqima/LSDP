@@ -13,6 +13,9 @@
 > * 在本地文件夹中，git clone ...，将远程仓库克隆到本地； 
 > * 克隆之后直接在本地文件夹中修改、更新即可；  
 > [参考博客](https://www.jianshu.com/p/7f8c80056233)
+> * 避免提交时多次输入密码：  
+> git bash进入你的项目目录，
+> git config --global credential.helper store  
 
 ## 2. Markdown常用语法  
 > * 数学符号及公式：类似Latex语法，```$x^2$```用于“内嵌型”公式，```$$a+b$$```用于“显示型”公式  
