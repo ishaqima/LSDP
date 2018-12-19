@@ -15,7 +15,7 @@
 > [参考博客](https://www.jianshu.com/p/7f8c80056233)
 
 ## 2. Markdown常用语法  
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>  
+<!-- <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>   -->
 > 数学符号及公式：类似Latex语法，```$x_1$```用于“内嵌型”公式，```$$x^2$$```用于“显示型”公式，```\\(x^2\\)```用于靠左模式  
 \(\alpha\)，$$a+b$$，$x^2$  
 > 参考博客：    
