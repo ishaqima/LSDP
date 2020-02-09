@@ -1,6 +1,7 @@
-# LSDP代码结构  
-2018-10月论文SubspaceLearning代码说明  
-## 1. 代码结构：  
+# Locality sensitive discriminant projection for feature extraction and face recognition  
+2019-8月论文LSDP代码说明  
+## 1. 代码结构：
+> * LSDP代码实现为LGSDP.m文件；  
 > * testTemp.m为最终的测试文件，测试各个算法在ORL、Yale、FERET上的准确率；  
 > * drawCurve.m为绘制准确率关于降维维数曲线的文件，实验中绘制的是ORL数据集上超参数 $\alpha=0.1,0.05,0.001,0.0001$ 时的准确率vs降维维数曲线；  
 > * showCurve.m显示不同算法的准确率vs降维维数曲线；  
